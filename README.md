@@ -1,6 +1,6 @@
 # Bagging-RF
 2018 Bremen Big Data Challenge Predictions
-### Even the this simple code provided about 92% of accuracy. The error rate was about 8%.#####################
+### Even this simple code provided about 92% of accuracy. The error rate was about 8%.###
 
 Herzlich Willkommen zur Bremen Big Data Challenge 2018!
 
